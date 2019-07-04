@@ -27,7 +27,7 @@ ________________________________________________________________________________
 	├──  inc/	 
 	│    ├── check-if-added.php
 	│    ├── com.php
-	│    ├── foot.php
+	│    ├── foot.php 
 	│    └── head.php
 	│
 	├── js/ (contains Bootstrap Js files.)
