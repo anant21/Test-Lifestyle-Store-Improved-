@@ -1,0 +1,35 @@
+                /*This is the CSS file. It includes all the styling done of different Ids, classes and elements */
+
+
+#banner_image{
+    padding-top: 110px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("img/intro-bg_1.jpg") no-repeat center;
+    background-size: cover;
+ }
+ 
+ #banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:rgb(245, 239, 239);
+    bottom: 0;
+    width: 100%;
+}
+
+
+.home :hover{
+    background-color: lightgrey;
+}
+
